@@ -68,9 +68,8 @@ Siempre busco aprender nuevas herramientas y mejorar mis habilidades día a día
 
 ### 📫 Contacto
 
-📧 **Correo:** [tuemail@example.com]  
-🌐 **Portafolio:** [https://tadeo19c.vercel.app](https://tadeo19c.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/tadeo19c](https://linkedin.com/in/tadeo19c)  
+📧 **Correo:** [tadeocastle3@gmail.com]  
+🌐 **Portafolio:** [https://my-portafolio-git-master-tadeo19cs-projects.vercel.app/]  
 
 ---
 
