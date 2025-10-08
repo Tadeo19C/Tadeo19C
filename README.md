@@ -59,17 +59,16 @@ Siempre busco aprender nuevas herramientas y mejorar mis habilidades día a día
 
 ### 🚀 Proyectos Destacados
 
-- 🧠 **[Conexión Universitaria](https://github.com/Tadeo19C/Conexion-Universitaria)** — comunidad en línea para estudiantes, con foros, grupos de estudio y recursos académicos.  
-- 🍽️ **[Simple Diet Planner](https://github.com/Tadeo19C/Simple-Diet)** — planificador de dietas dinámico con Flask y SQLite.  
-- 💬 **[Discord Clone](https://github.com/Tadeo19C/Discord-Like)** — clon educativo de Discord hecho en Django.  
-- 🐶 **[Dog Info App](https://github.com/Tadeo19C/DogInfoApp)** — app Android con Room, LiveData y MVVM.
+- 🧠 **[Math Kids](https://mathkids-11.web.app/)** — app mobile para niños de primaria sobre la enseñanza de las matematicas.  
+- 🍽️ **[Simple Diet Planner](https://github.com/Tadeo19C/ecommerce)** — planificador de dietas dinámico con Flask y SQLite.  
+- 💬 **[Discord Clone](https://github.com/Tadeo19C/cs50w-project5)** — clon educativo de Discord hecho en Django.  
 
 ---
 
 ### 📫 Contacto
 
-📧 **Correo:** [tadeocastle3@gmail.com]  
-🌐 **Portafolio:** [https://my-portafolio-git-master-tadeo19cs-projects.vercel.app/]  
+📧 **Correo:** tadeocastle3@gmail.com  
+🌐 **Portafolio:** (https://my-portafolio-git-master-tadeo19cs-projects.vercel.app/)  
 
 ---
 
